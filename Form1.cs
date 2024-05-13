@@ -60,7 +60,7 @@ namespace hollow
                 }
                 finally
                 {
-                    // 關閉資源，如果使用 using 或者直接以 File.WriteAllText 儲存文字檔，可以不需要。
+                    
                     fileStream.Close();
                 }
             }

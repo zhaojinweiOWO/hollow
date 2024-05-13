@@ -37,9 +37,9 @@
             // 
             // btnSave
             // 
-            this.btnSave.Location = new System.Drawing.Point(108, -1);
+            this.btnSave.Location = new System.Drawing.Point(131, -1);
             this.btnSave.Name = "btnSave";
-            this.btnSave.Size = new System.Drawing.Size(75, 35);
+            this.btnSave.Size = new System.Drawing.Size(121, 35);
             this.btnSave.TabIndex = 0;
             this.btnSave.Text = "存檔";
             this.btnSave.UseVisualStyleBackColor = true;
@@ -49,7 +49,7 @@
             // 
             this.btnOpen.Location = new System.Drawing.Point(-1, -1);
             this.btnOpen.Name = "btnOpen";
-            this.btnOpen.Size = new System.Drawing.Size(90, 35);
+            this.btnOpen.Size = new System.Drawing.Size(111, 35);
             this.btnOpen.TabIndex = 1;
             this.btnOpen.Text = "開啟檔案";
             this.btnOpen.UseVisualStyleBackColor = true;
@@ -59,7 +59,7 @@
             // 
             this.rtbText.Location = new System.Drawing.Point(-1, 40);
             this.rtbText.Name = "rtbText";
-            this.rtbText.Size = new System.Drawing.Size(100, 33);
+            this.rtbText.Size = new System.Drawing.Size(801, 398);
             this.rtbText.TabIndex = 2;
             this.rtbText.Text = "";
             // 
